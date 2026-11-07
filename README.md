@@ -1,3 +1,6 @@
+## PART 1, 3, AND 4 COLAB LINK BELOW
+[click here](https://colab.research.google.com/drive/1cxBkBp-7lb8ubswT9mTxo0Fpno1Sp2gU?usp=sharing.md)
+
 # CareLoop-Clinics-No-Show-Guard: PROJECT SUMMARY
 
 ### 1. Four-Line Summary (One finding per Part)
